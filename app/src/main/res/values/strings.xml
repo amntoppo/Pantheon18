@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Pantheon\'18</string>
+    <string name="app_name">Pantheon18</string>
+
+    <string name="hello_blank_fragment">This is the main fragment</string>
+
+    <array name="menuOptions">
+        <item>Home</item>
+        <item>Events</item>
+        <item>About</item>
+        <item>Team</item>
+        <item>Contact</item>
+    </array>
+
+    <!--<string name="tag_menu">Tag Menu</string>-->
 </resources>
